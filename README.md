@@ -1,4 +1,3 @@
-content = """
 # 🧠 Goal-Driven AI Coach
 
 Un assistente personale **agentico** che aiuta l’utente a raggiungere obiettivi (studio, fitness, carriera)

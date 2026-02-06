@@ -1,5 +1,3 @@
-# This script creates a README.md file with the requested content.
-
 content = """
 # 🧠 Goal-Driven AI Coach
 

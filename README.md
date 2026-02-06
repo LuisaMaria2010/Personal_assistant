@@ -157,9 +157,3 @@ v3
 # 📜 Licenza
 
 MIT
-"""
-
-with open("/mnt/data/README.md", "w", encoding="utf-8") as f:
-    f.write(content)
-
-print("README.md creato con successo in /mnt/data/README.md")
